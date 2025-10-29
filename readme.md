@@ -14,9 +14,6 @@ clone_url: "https://github.com/Make-Your-School/mks-Calliope-Calliope_mini.git"
 repo_prefix: "mks"
 repo_part: "Calliope_mini"
 embedded_example_file: "examples/Calliope_mini_minimal/Calliope_mini_minimal.ino"
-title: 'Calliope mini'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
